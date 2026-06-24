@@ -1,7 +1,7 @@
-# OmniFilter
+# OMNIeDNA Filter
 ## The modular eDNA sampler to maximize detection and minimize costs
 
-The OmniFilter is a modular environmental DNA (eDNA) concentration system built around a standard 50 mm cotton swab pad secured within a threaded connection ring. By placing this simple, low-cost membrane at the point of water entry, the OmniFilter creates a consistent, focused filtration interface that works across virtually any water sampling scenario. 
+The OMNIeDNA filter is a modular environmental DNA (eDNA) concentration system built around a standard 50 mm cotton swab pad secured within a threaded connection ring. By placing this simple, low-cost membrane at the point of water entry, the OmniFilter creates a consistent, focused filtration interface that works across virtually any water sampling scenario. 
 
 Whether deployed passively or with minimal active force, the system directs water through the pad, capturing cellular material and extracellular DNA efficiently on a substrate that is both widely available and easily processed for downstream extraction. The threaded ring architecture allows users to adapt the same filtration core to a wide range of sampling containers, flow conditions, or collection methods, making affordable ecosystem-wide surveying accessible in diverse environments. The OmniFilter is an inexpensive tool that puts the power of eDNA sampling into the hands of non-specialist users. Simple materials, limitless adaptability.
 
@@ -9,19 +9,19 @@ Whether deployed passively or with minimal active force, the system directs wate
 
 <img width="250" height="250" alt="torrent" src="https://github.com/user-attachments/assets/4dda3aba-2236-48e9-9668-90ccb2760820" />
 
-* **OmniFilter Torrent** – A torpedo-shaped river/tow-behind sampler designed specifically for use in fast-moving waters, or to be deployed from behind recreational vessels
+* **OMNIeDNA Torrent** – A torpedo-shaped river/tow-behind sampler designed specifically for use in fast-moving waters, or to be deployed from behind recreational vessels
 
 <img width="250" height="250" alt="omnifilter_rapid" src="https://github.com/user-attachments/assets/62b2c5a8-c7ae-4342-aac2-612817500c19" />
 
-* **OmniFilter Rapid** – Universal 1.5L PET bottle threaded attachment for rapid hand-filtering of collected water samples 
+* **OMNIeDNA Rapid** – Universal 1.5L PET bottle threaded attachment for rapid hand-filtering of collected water samples 
 
 <img width="250" height="250![Uploading omnifilter_rapid.jpg…]()
 " alt="omnifilter" src="https://github.com/user-attachments/assets/9eda4107-5657-4534-ac3c-b5708d6d2170" />
 
-* **OmniFilter Bulk** – Universal 5L PET bottle threaded attachment for large-volume filtration of collected water samples
+* **OMNIeDNA Bulk** – Universal 5L PET bottle threaded attachment for large-volume filtration of collected water samples
 
 
-* **OmniFilter Canopy** – A rain collection adapter to maximize filtration of canopy throughfall.
+* **OMNIeDNA Canopy** – A rain collection adapter to maximize filtration of canopy throughfall.
 
 ### 3D print instructions:
 * **Filament:** 1.75mm ABS plastic (ideal for toughness and frequent use in harsh environments)
