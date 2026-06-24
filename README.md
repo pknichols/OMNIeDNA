@@ -9,7 +9,7 @@ Whether deployed passively or with minimal active force, the system directs wate
 
 * **OmniFilter Torrent** – A torpedo-shaped river/tow-behind sampler designed specifically for use in fast-moving waters, or to be deployed from behind recreational vessels
 
-<img width="1150" height="1150" alt="torrent" src="https://github.com/user-attachments/assets/4dda3aba-2236-48e9-9668-90ccb2760820" />
+<img width="400" height="400" alt="torrent" src="https://github.com/user-attachments/assets/4dda3aba-2236-48e9-9668-90ccb2760820" />
 
 * **OmniFilter Rapid** – Universal 1.5L PET bottle threaded attachment for rapid hand-filtering of collected water samples 
 
