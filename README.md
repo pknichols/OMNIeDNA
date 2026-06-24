@@ -1,5 +1,5 @@
 # OmniFilter
-Modular eDNA sampler to maximize detection and minimize costs
+## The modular eDNA sampler to maximize detection and minimize costs
 
 * **OmniFilter Torrent** – A torpedo-shaped river/tow-behind sampler designed specifically for use in fast-moving waters, or to be deployed from behind recreational vessels
 
