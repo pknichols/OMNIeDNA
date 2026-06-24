@@ -14,3 +14,10 @@ Whether deployed passively or with minimal active force, the system directs wate
 * **OmniFilter Bulk** – Universal 5L PET bottle threaded attachment for large-volume filtration of collected water samples
 
 * **OmniFilter Canopy** – A rain collection adapter to maximize filtration of canopy throughfall.
+
+### 3D print instructions:
+* **Filament:** 1.75mm ABS plastic (ideal for toughness and frequent use in harsh environments)
+*  **Infill:** Gyroid, 20% (superior strength-to-weight ratio using less material, reducing print costs)
+*  **Brim:** Inner and outer 5-8mm brim (to increase bed adhesion and reduce warping)
+*  **Print temperature:** 210°C - 250°C
+*  **Heated bed:** 95-110 °C (enclosure recommended)
