@@ -8,10 +8,14 @@ Whether deployed passively or with minimal active force, the system directs wate
 ### The modular system:
 
 * **OmniFilter Torrent** – A torpedo-shaped river/tow-behind sampler designed specifically for use in fast-moving waters, or to be deployed from behind recreational vessels
+<img width="400" height="400" alt="torrent" src="https://github.com/user-attachments/assets/20f58995-63ac-4248-959d-63aa75930e29" />
 
 * **OmniFilter Rapid** – Universal 1.5L PET bottle threaded attachment for rapid hand-filtering of collected water samples 
 
 * **OmniFilter Bulk** – Universal 5L PET bottle threaded attachment for large-volume filtration of collected water samples
+
+<img width="400" height="400" alt="omnifilter" src="https://github.com/user-attachments/assets/9eda4107-5657-4534-ac3c-b5708d6d2170" />
+
 
 * **OmniFilter Canopy** – A rain collection adapter to maximize filtration of canopy throughfall.
 
