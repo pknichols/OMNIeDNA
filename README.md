@@ -9,7 +9,7 @@ Whether deployed passively or with minimal active force, the system directs wate
 
 >> <img width="250" height="250" alt="torrent" src="https://github.com/user-attachments/assets/4dda3aba-2236-48e9-9668-90ccb2760820" />
 >>
-> * **OMNIeDNA Torrent** – A torpedo-shaped river/tow-behind sampler designed specifically for use in streams and rivers, or to be deployed from behind recreational vessels and/or watercraft.
+> * **OMNIeDNA Torrent** – A torpedo-shaped sampler designed specifically for use in streams and rivers, or to be deployed from behind recreational vessels and/or watercraft.
 ****
 >> <img width="250" height="250" alt="omnifilter_rapid" src="https://github.com/user-attachments/assets/62b2c5a8-c7ae-4342-aac2-612817500c19" />
 >>
