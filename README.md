@@ -119,9 +119,8 @@ This is the middle piece... a threaded ring that literally **connects your chose
 
 Want to make your life even easier?
 
-- Pre-load your sterile filter membranes *before* you leave the lab.
-- At the field site, just pop the cartridge in, sample, pop it out, and seal it.
-- No more fumbling with delicate filter membranes in the field!
+- Pre-load your sterile filter membranes *before* you leave. No more fumbling with delicate filter membranes in the field!
+- At the field site, just pop the cartridge in, sample, pop it out, and seal it in a plastic bag.
 
 | Cartridge | Best Suited For | 
 |------|---------------------|
@@ -139,7 +138,7 @@ Want to make your life even easier?
 
 Here are some example builds/use cases (no, we haven't tested them all... yet):
 
-| Use Case | Printer Parts | Justification |
+| Use Case | Printed Parts | Justification |
 |----------|---------------|---------------|
 | *What fish are in my local river?* | **TORRENT Cone (A)**, **TORRENT Tail (B)**, **Extended Connector (C)**, **Funnel CARTRIDGE** | Moving water requires the torpedo-shaped TORRENT sampler to guide water through the opening. Use a CARTRIDGE funnel to keep out larger debris and focus eDNA more efficiently, while minimizing tearing of the filter membrane. |
 | *What birds visit my birdbath?* | **RAPID Adapter (A)**, **Narrow Base (B)**, **Connector (C)** | Use a standard plastic bottle to collect birdbath water (multiple times, the more the better, but leave some for the birds!). |
@@ -153,13 +152,13 @@ Here are some example builds/use cases (no, we haven't tested them all... yet):
 
 ---
 
-## 3D Print Specifications
+## 3D Printer Specifications
 
-- **Filament:** 1.75mm ABS plastic (ideal for toughness and frequent use in harsh environments)
+- **Filament:** 1.75mm ABS plastic (recommended over PLA for toughness and frequent use in harsh environments)
 - **Infill:** Gyroid, 20% (superior strength-to-weight ratio using less material, reducing print costs)
-- **Brim:** Inner and outer 5–8mm brim (to increase bed adhesion and reduce warping)
+- **Brim:** Inner and outer 5 – 8mm brim (to increase bed adhesion and reduce warping)
 - **Print temperature:** 210°C – 250°C
-- **Heated bed:** 95–110°C (enclosure recommended)
+- **Heated bed:** 95 – 110°C (enclosure recommended)
 
 &nbsp;
 
