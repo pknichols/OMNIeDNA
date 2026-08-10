@@ -177,6 +177,7 @@ Here are some example builds/use cases (no, we haven't tested them all... yet):
 Postdoctoral Researcher | Biodiversity Genomics Research Group | University of Oulu  
 
 📧 [patrick.nichols@oulu.fi](mailto:patrick.nichols@oulu.fi)  
+🔗 [pknichols.com](https://pknichols.com/)
 🔗 [biodiversitygenomics.org](https://biodiversitygenomics.org/)
 
 **Design by Jan Schulz**  
