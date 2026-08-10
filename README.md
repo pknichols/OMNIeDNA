@@ -167,13 +167,23 @@ Here are some example builds/use cases (no, we haven't tested them all... yet):
 
 &nbsp;
 
-## Implementation
+&nbsp;
 
-**Original concept and design by Patrick Nichols**  
+&nbsp;
+
+## Credits
+
+**Original concept by Patrick Nichols**  
 Postdoctoral Researcher | Biodiversity Genomics Research Group | University of Oulu  
 
 📧 [patrick.nichols@oulu.fi](mailto:patrick.nichols@oulu.fi)  
 🔗 [biodiversitygenomics.org](https://biodiversitygenomics.org/)
+
+**Design by Jan Schulz**  
+Social Designer
+
+📧 [schulz.janc@gmail.com](mailto:schulz.janc@gmail.com)  
+🔗 [janchristianschulz.com](https://janchristianschulz.com/)
 
 ---
 
