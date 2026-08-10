@@ -129,6 +129,8 @@ Want to make your life even easier?
 | **Support** | 6 mm openings to provide support for fragile filter membranes while maximizing the contact area of filtered water |
 | **Mesh** | Fine 2.5 mm mesh for excluding large debris like leaves, sticks, and other material that may be in the water. It also provides support for fragile filter membranes, reducing the chances of them ripping during deployments |
 
+**That's it.** Three pieces. Infinite configurations. Go get that eDNA. 🧬
+
 &nbsp;
 
 &nbsp;
@@ -145,8 +147,6 @@ Here are some example builds/use cases (no, we haven't tested them all... yet):
 | *What birds visit my birdbath?* | RAPID |**RAPID Adapter (A)**, **Narrow Base (B)**, **Connector (C)** | Use a standard plastic bottle to collect birdbath water (multiple times, the more the better, but leave some for the birds!). |
 | *Are there aquatic invasive species here?* | BULK | **BULK Adapter (A)**, **Wide Base (B)**, **Connector (C)**, **Support CARTRIDGE** | Maximize detection of rare species and the volume of water that passes through the filter membrane by using a larger 5L bottle (multiple times, the more the better!). Use the support CARTRIDGE to maximize surface area while minimizing the chances of ripping the filter membrane. |
 | *What are the birds, the bees, and the trees?* | CANOPY | **RAPID Adapter (A)**, **CANOPY base (B)**, **Connector (C)**, **Mesh CARTRIDGE** | Harvest rain throughfall under forested canopies to easily sample plant and animal communities. Use the mesh CARTRIDGE to exclude leaves, sticks, and other debris that may be caught as well. Know how much rain you filtered by collecting it in a standard plastic bottle. |
-
-**That's it.** Three pieces. Infinite configurations. Go get that eDNA. 🧬
 
 &nbsp;
 
