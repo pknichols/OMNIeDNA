@@ -20,11 +20,11 @@ Whether deployed passively or with minimal active force, the system directs wate
 > * **OMNIeDNA Bulk** – Universal 5L PET bottle threaded attachment for large-volume filtration of collected water samples.
 ****
 
-> * **OMNIeDNA Canopy** – A rain/snow collection adapter to maximize filtration of canopy throughfall.
+> * **OMNIeDNA Canopy (Coming soon)** – A rain/snow collection adapter to maximize filtration of canopy throughfall.
 ****
 >> <img width="250" height="250" alt="omnicartridge" src="https://github.com/user-attachments/assets/8f8c4fee-c94c-4b3c-a9b6-848056eb4b66" />
 >>
-> * **OMNIeDNA Cartridges** – Re-usable cartridges fitting standard filter membranes (< 52 mm diameter) with varying levels of pre-filtration mesh sizes, depending on debris load and habitat being sampled. Easy to pre-load and decontaminate!
+> * **OMNIeDNA Cartridges** – Re-usable cartridges that fit standard filter membranes (< 52 mm diameter) to provide additional support and assist with varying levels of pre-filtration (depending on debris load and habitat being sampled). Cartridges make loading filters simple by allowing many to be assembled in a sterile environment for rapid deployment in the field. Plus, they are easy to decontaminate after each use!
 ****
 
 
