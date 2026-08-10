@@ -117,14 +117,14 @@ This is the middle piece... a threaded ring that literally **connects your chose
 
 ---
 
-### Optional Add-On – The CARTRIDGE
+### Optional Add-On – CARTRIDGES
 
 Want to make your life even easier?
 
 - Pre-load your sterile filter membranes *before* you leave. No more fumbling with delicate filter membranes in the field!
 - At the field site, just pop the cartridge in, sample, pop it out, and seal it in a plastic bag.
 
-| Cartridge | Best Suited For | 
+| CARTRIDGE | Best Suited For | 
 |------|---------------------|
 | **Support** | 6 mm openings to provide support for fragile filter membranes while maximizing the contact area of filtered water |
 | **Mesh** | Fine 2.5 mm mesh for excluding large debris like leaves, sticks, and other material that may be in the water. It also provides support for fragile filter membranes, reducing the chances of them ripping during deployments |
@@ -139,11 +139,12 @@ Want to make your life even easier?
 
 Here are some example builds/use cases (no, we haven't tested them all... yet):
 
-| Use Case | Printed Parts | Justification |
-|----------|---------------|---------------|
-| *What fish are in my local river?* | **TORRENT Cone (A)**, **TORRENT Tail (B)**, **Extended Connector (C)**, **Mesh CARTRIDGE** | Moving water requires the torpedo-shaped TORRENT sampler to guide water through the opening. Use a mesh CARTRIDGE to keep out larger debris and focus eDNA more efficiently, while minimizing tearing of the filter membrane. |
-| *What birds visit my birdbath?* | **RAPID Adapter (A)**, **Narrow Base (B)**, **Connector (C)** | Use a standard plastic bottle to collect birdbath water (multiple times, the more the better, but leave some for the birds!). |
-| *Are there aquatic invasive species here?* | **BULK Adapter (A)**, **Wide Base (B)**, **Connector (C)**, **Support CARTRIDGE** | Maximize detection of rare species and the volume of water that passes through the filter membrane by using a larger 5L bottle (multiple times, the more the better!). Use the support CARTRIDGE to maximize surface area while minimizing the chances of ripping the filter membrane. |
+| Use Case | System | Printed Parts | Justification |
+|----------|----|---------------|---------------|
+| *What fish are in my local river?* | TORRENT | **TORRENT Cone (A)**, **TORRENT Tail (B)**, **Extended Connector (C)**, **Mesh CARTRIDGE** | Moving water requires the torpedo-shaped TORRENT sampler to guide water through the opening. Use a mesh CARTRIDGE to keep out larger debris and focus eDNA more efficiently, while minimizing tearing of the filter membrane. |
+| *What birds visit my birdbath?* | RAPID |**RAPID Adapter (A)**, **Narrow Base (B)**, **Connector (C)** | Use a standard plastic bottle to collect birdbath water (multiple times, the more the better, but leave some for the birds!). |
+| *Are there aquatic invasive species here?* | BULK | **BULK Adapter (A)**, **Wide Base (B)**, **Connector (C)**, **Support CARTRIDGE** | Maximize detection of rare species and the volume of water that passes through the filter membrane by using a larger 5L bottle (multiple times, the more the better!). Use the support CARTRIDGE to maximize surface area while minimizing the chances of ripping the filter membrane. |
+| *What are the birds, the bees, and the trees?* | CANOPY | **RAPID Adapter (A)**, **CANOPY base (B)**, **Connector (C)**, **Mesh CARTRIDGE** | Harvest rain throughfall under forested canopies to easily sample plant and animal communities. Use the mesh CARTRIDGE to exclude leaves, sticks, and other debris that may be caught as well. |
 
 **That's it.** Three pieces. Infinite configurations. Go get that eDNA. 🧬
 
