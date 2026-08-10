@@ -28,7 +28,7 @@ Whether deployed passively or with minimal active force, the system directs wate
 ****
 
 
-### Instructions
+## Instructions
 
 The OMNIeDNA system is configurable based on your specific surveying needs! To get started, your OMNIeDNA sampler requires one of each modular pieces **(A,B,C)**:
 
@@ -36,7 +36,7 @@ The OMNIeDNA system is configurable based on your specific surveying needs! To g
 * **B**ase - the bottom piece to the OMNIeDNA sampler; torrent (torpedo-shaped) tail for aquatic environments OR wide or narrow support base for bottle filtration on dry land
 *  **C**onnector - the central threaded ring to connect the base to the adapter
 
-### 3D print specifications:
+## 3D print specifications:
 * **Filament:** 1.75mm ABS plastic (ideal for toughness and frequent use in harsh environments)
 *  **Infill:** Gyroid, 20% (superior strength-to-weight ratio using less material, reducing print costs)
 *  **Brim:** Inner and outer 5-8mm brim (to increase bed adhesion and reduce warping)
