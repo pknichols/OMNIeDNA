@@ -74,7 +74,8 @@ Whether deployed passively or with minimal active force, the system directs wate
 The OMNIeDNA system may look complex with a lot of pieces, but whether you're dangling it off a boat or screwing it onto a soda bottle on shore, you only ever need **one of each** to get rolling.
 
 We call it **The ABCs**. Pick your **A**, pick your **B**, pick your **C**, and you are ready to sample.
-**That's it.** Three pieces. Infinite configurations. Go get that eDNA. 🧬
+
+**That's it.** Three pieces. So many configurations. Go get that eDNA. 🧬
 
 &nbsp;
 
