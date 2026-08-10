@@ -25,7 +25,7 @@ Whether deployed passively or with minimal active force, the system directs wate
   <img width="250" height="250" alt="torrent" src="https://github.com/user-attachments/assets/4dda3aba-2236-48e9-9668-90ccb2760820" />
 </p>
 
-- **OMNIeDNA TORRENT** – A torpedo-shaped sampler designed specifically for use in streams and rivers, or to be deployed from behind recreational vessels and/or watercraft.
+- **OMNIeDNA TORRENT** – A torpedo-shaped sampler designed specifically for use in streams and rivers, or to be deployed from behind recreational vessels and/or watercraft. So versatile that it can be deployed using buoys, docks, bridges, kayaks, dinghies, SUPs... heck, we'd even try a unicorn floaty!
 
 &nbsp;
 
@@ -35,7 +35,7 @@ Whether deployed passively or with minimal active force, the system directs wate
   <img width="250" height="250" alt="omnifilter_rapid" src="https://github.com/user-attachments/assets/62b2c5a8-c7ae-4342-aac2-612817500c19" />
 </p>
 
-- **OMNIeDNA RAPID** – Universal 1.5-liter plastic bottle threaded attachment for rapid filtering of collected water samples (PET bottles with the standard 30 mm caps).
+- **OMNIeDNA RAPID** – Universal 1.5-liter plastic bottle threaded attachment for rapid filtering of collected water samples (PET bottles with the standard 30 mm caps). Make sure you enjoy that soda first though, and give it a good cleaning before use!
 
 &nbsp;
 
@@ -45,13 +45,13 @@ Whether deployed passively or with minimal active force, the system directs wate
   <img width="250" height="250" alt="omnifilter" src="https://github.com/user-attachments/assets/9eda4107-5657-4534-ac3c-b5708d6d2170" />
 </p>
 
-- **OMNIeDNA BULK** – Universal 5.1-liter plastic bottle threaded attachment for large-volume filtration of collected water samples (PET carboys with a 50 mm cap).
+- **OMNIeDNA BULK** – Universal 5.1-liter plastic bottle threaded attachment for large-volume filtration of collected water samples (PET carboys with a 50 mm cap). You know, the kind of water jugs you keep in the hidden bunker for the zombie apocalypse?
 
 &nbsp;
 
 ---
 
-- **OMNIeDNA CANOPY (Coming soon)** – A rain/snow collection adapter to maximize filtration of canopy throughfall. When used in the rain, the attached plastic bottle lets you know how much water you have filtered. When used in the snow, bring the bottle to room temperature to melt and invert to filter the collected water.
+- **OMNIeDNA CANOPY (Coming soon)** – A rain/snow collection adapter to maximize filtration of canopy throughfall. When used in the rain, the attached plastic bottle lets you know how much water you have filtered. When used in the snow, bring the bottle to room temperature to melt and invert to filter the collected water. We didn't want to exclude our (Ant)arctic partners!!
 
 &nbsp;
 
