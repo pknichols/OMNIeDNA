@@ -1,6 +1,6 @@
 # OMNIeDNA Sampler
 
-## The modular eDNA sampler to maximize detection and minimize costs
+## The modular eDNA sampler to maximize detection and minimize complexity
 
 ---
 
