@@ -111,9 +111,9 @@ This is the bottom half. It dictates how the sampler stabilizes while water flow
 
 This is the middle piece... a threaded ring that literally **connects your chosen (A) to your chosen (B)**.
 
-| Connector | Suited For | 
+| Connector | Required For | 
 |------|---------------------|
-| **Standard Connector** | Used in all builds |
+| **Standard Connector** | All builds |
 
 &nbsp;
 
