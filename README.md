@@ -81,8 +81,8 @@ This is the top half. It's where the water enters the system. Your choice depend
 | Adapter | Other Required Gear | Best Suited For |
 |---------|---------------------|-----------------|
 | **TORRENT Cone** | TORRENT Tail, rope, ballast weight (e.g., dive weights, brick, anchor, large rock) | Moving aquatic environments (rivers, streams, towed behind a kayak or small boat) |
-| **RAPID Adapter** | 1.5L plastic bottles | Great for quick, grab-and-go field sampling. These plastic bottles are universally available. |
-| **BULK Adapter** | 5.1L plastic carboy | Perfect for sampling water from larger jugs, meaning more eDNA. Larger jugs may be more difficult to source. |
+| **RAPID Adapter** | 1.5L plastic bottles, Wide/Narrow Base | Great for quick, grab-and-go field sampling. Uses plastic bottles that are universally available. |
+| **BULK Adapter** | 5.1L plastic carboy, Wide Base | Perfect for sampling water from larger jugs, meaning more eDNA. However, larger jugs may be more difficult to source. |
 
 &nbsp;
 
