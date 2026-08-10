@@ -30,7 +30,7 @@ Whether deployed passively or with minimal active force, the system directs wate
 
 ### Instructions
 
-The OMNIeDNA system is configurable based on your specific surveying needs! To get started, your OMNIeDNA sampler requires one of each modular pieces (A,B,C):
+The OMNIeDNA system is configurable based on your specific surveying needs! To get started, your OMNIeDNA sampler requires one of each modular pieces **(A,B,C)**:
 
 * **A**dapter - the main component to the OMNIeDNA sampler; torrent cone for fast-moving aquatic environments OR bulk/rapid bottle adapter for 5.1L and 1.5L PET bottles, respectively
 * **B**ase - the bottom piece to the OMNIeDNA sampler; torrent (torpedo-shaped) tail for aquatic environments OR wide or narrow support base for bottle filtration on dry land
