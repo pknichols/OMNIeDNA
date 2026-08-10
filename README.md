@@ -74,6 +74,7 @@ Whether deployed passively or with minimal active force, the system directs wate
 The OMNIeDNA system may look complex with a lot of pieces, but whether you're dangling it off a boat or screwing it onto a soda bottle on shore, you only ever need **one of each** to get rolling.
 
 We call it **The ABCs**. Pick your **A**, pick your **B**, pick your **C**, and you are ready to sample.
+**That's it.** Three pieces. Infinite configurations. Go get that eDNA. 🧬
 
 &nbsp;
 
@@ -128,8 +129,6 @@ Want to make your life even easier?
 |------|---------------------|
 | **Support** | 6 mm openings to provide support for fragile filter membranes while maximizing the contact area of filtered water |
 | **Mesh** | Fine 2.5 mm mesh for excluding large debris like leaves, sticks, and other material that may be in the water. It also provides support for fragile filter membranes, reducing the chances of them ripping during deployments |
-
-**That's it.** Three pieces. Infinite configurations. Go get that eDNA. 🧬
 
 &nbsp;
 
