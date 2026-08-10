@@ -25,7 +25,7 @@ Whether deployed passively or with minimal active force, the system directs wate
   <img width="250" height="250" alt="torrent" src="https://github.com/user-attachments/assets/4dda3aba-2236-48e9-9668-90ccb2760820" />
 </p>
 
-- **OMNIeDNA TORRENT** – A torpedo-shaped sampler designed specifically for use in streams and rivers, or to be deployed from behind recreational vessels and/or watercraft. So versatile that it can be deployed using buoys, docks, bridges, kayaks, dinghies, SUPs... heck, we'd even try a unicorn floaty!
+- **OMNIeDNA TORRENT** – A torpedo-shaped sampler designed specifically for use in streams and rivers, or to be deployed from behind recreational vessels and/or watercraft. So versatile that it can be deployed using buoys, docks, bridges, kayaks, dinghies, SUPs... heck, we'd even tie it to a unicorn floaty!
 
 &nbsp;
 
