@@ -61,7 +61,7 @@ Whether deployed passively or with minimal active force, the system directs wate
   <img width="250" height="250" alt="omnicartridge" src="https://github.com/user-attachments/assets/8f8c4fee-c94c-4b3c-a9b6-848056eb4b66" />
 </p>
 
-- **OMNIeDNA CARTRIDGE** – Reusable filter membrane holders (< 52 mm) enable adjustable pre-filtration based on debris load and habitat, allow sterile batch assembly for fast field deployment, and are easy to decontaminate after use.
+- **OMNIeDNA CARTRIDGES** – Reusable filter membrane holders (< 52 mm) enable adjustable pre-filtration based on debris load and environment type, allow sterile batch assembly for fast field deployment, and are easy to decontaminate after use.
 
 &nbsp;
 
@@ -111,8 +111,7 @@ This is the middle piece... a threaded ring that literally **connects your chose
 
 | Connector | Suited For | 
 |------|---------------------|
-| **Extended Connector** | Required when using the optional Funnel CARTRIDGE (see below) |
-| **Standard Connector** | Used in all other builds |
+| **Standard Connector** | Used in all builds |
 
 &nbsp;
 
@@ -127,9 +126,8 @@ Want to make your life even easier?
 
 | Cartridge | Best Suited For | 
 |------|---------------------|
-| **Hole** | 6 mm openings to provide support for fragile filter membranes while maximizing the contact area of filtered water |
+| **Support** | 6 mm openings to provide support for fragile filter membranes while maximizing the contact area of filtered water |
 | **Mesh** | Fine 2.5 mm mesh for excluding large debris like leaves, sticks, and other material that may be in the water. It also provides support for fragile filter membranes, reducing the chances of them ripping during deployments |
-| **Funnel** | Slightly conical-shaped cartridge for focusing captured DNA towards the center of the membrane, increasing extraction efficiency when using only a portion of the membrane in laboratory analyses |
 
 &nbsp;
 
@@ -143,9 +141,9 @@ Here are some example builds/use cases (no, we haven't tested them all... yet):
 
 | Use Case | Printed Parts | Justification |
 |----------|---------------|---------------|
-| *What fish are in my local river?* | **TORRENT Cone (A)**, **TORRENT Tail (B)**, **Extended Connector (C)**, **Funnel CARTRIDGE** | Moving water requires the torpedo-shaped TORRENT sampler to guide water through the opening. Use a CARTRIDGE funnel to keep out larger debris and focus eDNA more efficiently, while minimizing tearing of the filter membrane. |
+| *What fish are in my local river?* | **TORRENT Cone (A)**, **TORRENT Tail (B)**, **Extended Connector (C)**, **Mesh CARTRIDGE** | Moving water requires the torpedo-shaped TORRENT sampler to guide water through the opening. Use a mesh CARTRIDGE to keep out larger debris and focus eDNA more efficiently, while minimizing tearing of the filter membrane. |
 | *What birds visit my birdbath?* | **RAPID Adapter (A)**, **Narrow Base (B)**, **Connector (C)** | Use a standard plastic bottle to collect birdbath water (multiple times, the more the better, but leave some for the birds!). |
-| *Are there aquatic invasive species here?* | **BULK Adapter (A)**, **Wide Base (B)**, **Connector (C)**, **Mesh CARTRIDGE** | Maximize detection of rare species and the volume of water that passes through the filter membrane by using a larger 5L bottle (multiple times, the more the better!). Use the CARTRIDGE mesh to keep out floating debris and minimize ripping of the filter membrane. |
+| *Are there aquatic invasive species here?* | **BULK Adapter (A)**, **Wide Base (B)**, **Connector (C)**, **Support CARTRIDGE** | Maximize detection of rare species and the volume of water that passes through the filter membrane by using a larger 5L bottle (multiple times, the more the better!). Use the support CARTRIDGE to maximize surface area while minimizing the chances of ripping the filter membrane. |
 
 **That's it.** Three pieces. Infinite configurations. Go get that eDNA. 🧬
 
