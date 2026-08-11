@@ -119,7 +119,7 @@ This is the middle piece... a threaded ring that literally **connects your chose
 
 ---
 
-### Optional Add-On – Cartridge
+### Optional Add-On – Cartridges
 
 Want to make your life even easier?
 
@@ -143,10 +143,10 @@ Here are some example builds/use cases (no, we haven't tested them all... yet):
 
 | Use Case | System | Printed Parts | Justification |
 |----------|----|---------------|---------------|
-| *What fish are in my local river?* | TORRENT | [**TORRENT Cone (A)**](./A_components/torrent_cone.stl), [**TORRENT Tail (B)**](./B_components/torrent_tail.stl), [**Connector Ring (C)**](./C_components/connector_ring.stl), [**Mesh Cartridge (Optional)**](./Optional/mesh_cartridge.stl) | Moving water requires the torpedo-shaped TORRENT sampler to guide water through the opening. Use a mesh Cartridge to keep out larger debris and focus eDNA more efficiently, while minimizing tearing of the filter membrane. |
-| *What birds visit my birdbath?* | RAPID |[**RAPID Adapter (A)**](./A_components/rapid_adapter.stl), [**Narrow Base (B)**](./B_components/narrow_base.stl), [**Connector Ring (C)**](./C_components/connector_ring.stl) | Use a standard plastic bottle to collect birdbath water (multiple times, the more the better, but leave some for the birds!). |
-| *Are there aquatic invasive species here?* | BULK | [**BULK Adapter (A)**](./A_components/bulk_adapter.stl, **Wide Base (B)**, [**Connector Ring (C)**](./C_components/connector_ring.stl), [**Support Cartridge (Optional)**](./Optional/support_cartridge.stl) | Maximize detection of rare species and the volume of water that passes through the filter membrane by using a larger 5L bottle (multiple times, the more the better!). Use the support Cartridge to maximize surface area while minimizing the chances of ripping the filter membrane. |
-| *What are the birds, the bees, and the trees?* | CANOPY | [**RAPID Adapter (A)**](./A_components/rapid_adapter.stl), **CANOPY base (B)**, [**Mesh Cartridge (Optional)**](./Optional/mesh_cartridge.stl) | Harvest rain throughfall under forested canopies to easily sample plant and animal communities. Use the mesh Cartridge to exclude leaves, sticks, and other debris that may be caught as well. Know how much rain you filtered by collecting it in a standard plastic bottle. |
+| *What fish are in my local river?* | TORRENT | [**TORRENT Cone (A)**](./A_components/torrent_cone.stl), [**TORRENT Tail (B)**](./B_components/torrent_tail.stl), [**Connector Ring (C)**](./C_components/connector_ring.stl), [**Mesh Cartridge (Optional)**](./Optional/mesh_cartridge.stl) | Moving water requires the torpedo-shaped [**OMNIeDNA TORRENT**](./OMNIeDNA_TORRENT_kit.stl) to guide water through the opening. Use a mesh cartridge to keep out larger debris and focus eDNA more efficiently, while minimizing tearing of the filter membrane. |
+| *What birds visit my birdbath?* | RAPID |[**RAPID Adapter (A)**](./A_components/rapid_adapter.stl), [**Narrow Base (B)**](./B_components/narrow_base.stl), [**Connector Ring (C)**](./C_components/connector_ring.stl) | Use a standard plastic bottle to collect birdbath water (multiple times, the more the better, but leave some for the birds!) with the [**OMNIeDNA RAPID**](./OMNIeDNA_RAPID_kit.stl). |
+| *Are there aquatic invasive species here?* | BULK | [**BULK Adapter (A)**](./A_components/bulk_adapter.stl, **Wide Base (B)**, [**Connector Ring (C)**](./C_components/connector_ring.stl), [**Support Cartridge (Optional)**](./Optional/support_cartridge.stl) | Maximize detection of rare species and the volume of water that passes through the filter membrane by using a larger 5L bottle (multiple times, the more the better!) and the [**OMNIeDNA BULK**](./OMNIeDNA_BULK_kit.stl). Use the support cartridge to maximize surface area while minimizing the chances of ripping the filter membrane. |
+| *What are the birds, the bees, and the trees?* | CANOPY | [**RAPID Adapter (A)**](./A_components/rapid_adapter.stl), **CANOPY base (B)**, [**Mesh Cartridge (Optional)**](./Optional/mesh_cartridge.stl) | Harvest rain throughfall under forested canopies to easily sample plant and animal communities. Use the mesh cartridge to exclude leaves, sticks, and other debris that may be caught as well. Know how much rain you filtered by collecting it in a standard plastic bottle. |
 
 &nbsp;
 
