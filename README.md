@@ -80,7 +80,7 @@ This is the top half. It's where the water enters the system. Your choice depend
 | Adapter | Other Required Gear | Best Suited For |
 |---------|---------------------|-----------------|
 | [**TORRENT Cone**](./A_components/torrent_cone.stl) | TORRENT Tail, rope, ballast weight (e.g., dive weights, brick, anchor, large rock) | Moving aquatic environments (rivers, streams, towed behind a kayak or small boat) |
-| [**RAPID Adapter**](./A_components/rapid_adapter.stl) | 1.5L plastic bottles, Wide/Narrow Base | Great for quick, grab-and-go field sampling. Uses plastic bottles that are universally available. |
+| [**RAPID Adapter**](./A_components/rapid_adapter.stl) | 1.0/1.5L plastic bottles, Wide/Narrow Base | Great for quick, grab-and-go field sampling. Uses plastic bottles that are universally available. |
 | [**BULK Adapter**](./A_components/bulk_adapter.stl) | 5.1L plastic carboy, Wide Base | Perfect for sampling water from larger jugs, meaning more eDNA. However, larger jugs may be more difficult to source. |
 
 &nbsp;
@@ -94,8 +94,8 @@ This is the bottom half. It dictates how the sampler stabilizes while water flow
 | Base | Other Required Gear | Best Suited For |
 |------|---------------------|-----------------|
 | [**TORRENT Tail**](./B_components/torrent_tail.stl) | TORRENT Cone, rope, ballast weight (e.g., dive weights, brick, anchor, large rock) | Moving aquatic environments (rivers, streams, towed behind a kayak or small boat) |
-| **Wide Base** | BULK or RAPID Adapter, 5.1L or 1.5L plastic bottle | Dry land / bench-top filtration, with a sturdy footprint that is less likely to tip over while you work |
-| [**Narrow Base**](./B_components/narrow_base.stl) | BULK or RAPID Adapter, 5.1L or 1.5L plastic bottle | Compact fieldwork (coolers, backpacks, tight spaces) or uneven ground where it can instead be hung for maximum portability |
+| **Wide Base** | BULK or RAPID Adapter, 5.1L or 1.0/1.5L plastic bottle | Dry land / bench-top filtration, with a sturdy footprint that is less likely to tip over while you work |
+| [**Narrow Base**](./B_components/narrow_base.stl) | BULK or RAPID Adapter, 5.1L or 1.0/1.5L plastic bottle | Compact fieldwork (coolers, backpacks, tight spaces) or uneven ground where it can instead be hung for maximum portability |
 
 &nbsp;
 
