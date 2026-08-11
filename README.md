@@ -25,7 +25,7 @@ Whether deployed passively or with minimal active force, the system directs wate
   <img width="250" height="250" alt="omnifilter_rapid" src="https://github.com/user-attachments/assets/62b2c5a8-c7ae-4342-aac2-612817500c19" />
 </p>
 
-- [**OMNIeDNA RAPID**](./OMNIeDNA_RAPID_kit.stl) – Universal 1.5-liter plastic bottle threaded attachment for rapid filtering of collected water samples (PET bottles with the standard 30 mm caps). Make sure you enjoy that soda first though, and give it a good cleaning before use!
+- [**OMNIeDNA RAPID**](./OMNIeDNA_RAPID_kit.stl) – Universal 1.0/1.5-liter plastic bottle threaded attachment (PET bottles with the standard 30 mm caps) for rapid filtering of collected water samples. Make sure you enjoy that soda first though, and give it a good cleaning before use!
 
 &nbsp;
 
@@ -35,13 +35,13 @@ Whether deployed passively or with minimal active force, the system directs wate
   <img width="250" height="250" alt="omnifilter" src="https://github.com/user-attachments/assets/9eda4107-5657-4534-ac3c-b5708d6d2170" />
 </p>
 
-- [**OMNIeDNA BULK**](./OMNIeDNA_BULK_kit.stl) – Universal 5.1-liter plastic bottle threaded attachment for large-volume filtration of collected water samples (PET carboys with a 50 mm cap). You know, the kind of water jugs you keep in the hidden bunker for the zombie apocalypse?
+- [**OMNIeDNA BULK**](./OMNIeDNA_BULK_kit.stl) – Universal 5.0/5.1-liter plastic bottle threaded attachment (PET carboys with a 50 mm cap) for large-volume filtration of collected water samples. You know, the kind of water jugs you keep in the hidden bunker for the zombie apocalypse?
 
 &nbsp;
 
 ---
 
-- **OMNIeDNA CANOPY (Coming soon)** – A rain/snow collection adapter to maximize filtration of canopy throughfall. When used in the rain, the attached plastic bottle lets you know how much water you have filtered. When used in the snow, bring the bottle to room temperature to melt and invert to filter the collected water. We didn't want to exclude our (Ant)arctic partners!!
+- **OMNIeDNA CANOPY (Coming soon)** – A rain/snow collection adapter to maximize filtration of canopy throughfall. When used in the rain, the attached plastic bottle lets you know how much water you have filtered. When used in sleet/snow, bring the bottle to room temperature to melt and invert to filter the collected water. We didn't want to exclude our (Ant)arctic partners!!
 
 &nbsp;
 
