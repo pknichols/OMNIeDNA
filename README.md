@@ -12,7 +12,7 @@ The OMNIeDNA sampler is a modular environmental DNA (eDNA) concentration system 
 Whether deployed passively or with minimal active force, the system directs water through the cotton membrane, capturing cellular material and extracellular DNA efficiently on a substrate that is both widely available and easily processed for downstream DNA extraction. The threaded ring architecture allows users to adapt the same filtration core to a wide range of sampling containers, flow conditions, or collection methods, making affordable ecosystem-wide surveying accessible in diverse environments. The OMNIeDNA filter system is an inexpensive tool that puts the power of eDNA sampling into the hands of non-specialist users. Simple materials, limitless adaptability.
 
 <p align="center">
-  <img width="250" height="250" alt="torrent" src="https://github.com/user-attachments/assets/4dda3aba-2236-48e9-9668-90ccb2760820" />
+  <img width="250" height="250" alt="torrent" src="https://github.com/user-attachments/assets/7cdbf406-02e2-46f9-819d-1fd33a3f68a6" />
 </p>
 
 - [**OMNIeDNA TORRENT**](./OMNIeDNA_TORRENT_kit.stl) – A torpedo-shaped sampler designed specifically for use in streams and rivers, or to be deployed from behind recreational vessels and/or watercraft. So versatile that it can be deployed using buoys, docks, bridges, kayaks, dinghies, SUPs... heck, we'd even tie it to a unicorn floaty!
@@ -22,7 +22,7 @@ Whether deployed passively or with minimal active force, the system directs wate
 ---
 
 <p align="center">
-  <img width="250" height="250" alt="omnifilter_rapid" src="https://github.com/user-attachments/assets/62b2c5a8-c7ae-4342-aac2-612817500c19" />
+  <img width="250" height="250" alt="omnifilter_rapid" src="https://github.com/user-attachments/assets/aca0db38-0cbd-4f3b-a83e-3d82b65bb3c2" />
 </p>
 
 - [**OMNIeDNA RAPID**](./OMNIeDNA_RAPID_kit.stl) – Universal 1.0/1.5-liter plastic bottle threaded attachment (PET bottles with the standard 30 mm caps) for rapid filtering of collected water samples. Make sure you enjoy that soda first though, and give it a good cleaning before use!
@@ -32,7 +32,7 @@ Whether deployed passively or with minimal active force, the system directs wate
 ---
 
 <p align="center">
-  <img width="250" height="250" alt="omnifilter" src="https://github.com/user-attachments/assets/9eda4107-5657-4534-ac3c-b5708d6d2170" />
+  <img width="250" height="250" alt="omnifilter" src="https://github.com/user-attachments/assets/5f598eee-7e6a-47ed-8065-356486617398" />
 </p>
 
 - [**OMNIeDNA BULK**](./OMNIeDNA_BULK_kit.stl) – Universal 5.0/5.1-liter plastic bottle threaded attachment (PET carboys with a 50 mm cap) for large-volume filtration of collected water samples. You know, the kind of water jugs you keep in the hidden bunker for the zombie apocalypse?
@@ -48,7 +48,7 @@ Whether deployed passively or with minimal active force, the system directs wate
 ---
 
 <p align="center">
-  <img width="250" height="250" alt="omnicartridge" src="https://github.com/user-attachments/assets/8f8c4fee-c94c-4b3c-a9b6-848056eb4b66" />
+  <img width="250" height="250" alt="omnicartridge" src="https://github.com/user-attachments/assets/d702184c-e54d-4434-89d9-b3319d0bf52c" />
 </p>
 
 - [**OMNIeDNA Cartridges**](./Optional/mixed_bed2x2.stl) – Reusable filter membrane holders (< 52 mm) enable adjustable pre-filtration based on debris load and environment type, allow sterile batch assembly for fast field deployment, and are easy to decontaminate after use.
