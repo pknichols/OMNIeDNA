@@ -1,6 +1,6 @@
 # OMNIeDNA Sampler
 
-## The modular, open-source eDNA sampler to maximize detection and minimize complexity
+## The modular, versatile, open-source eDNA sampler to maximize detection and minimize complexity
 
 ---
 
