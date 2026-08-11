@@ -15,12 +15,6 @@ Whether deployed passively or with minimal active force, the system directs wate
 
 &nbsp;
 
----
-
-### The Modular System
-
-&nbsp;
-
 <p align="center">
   <img width="250" height="250" alt="torrent" src="https://github.com/user-attachments/assets/4dda3aba-2236-48e9-9668-90ccb2760820" />
 </p>
