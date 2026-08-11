@@ -143,10 +143,10 @@ Here are some example builds/use cases (no, we haven't tested them all... yet):
 
 | Use Case | System | Printed Parts | Justification |
 |----------|----|---------------|---------------|
-| *What fish are in my local river?* | TORRENT | **TORRENT Cone (A)**, **TORRENT Tail (B)**, **Extended Connector (C)**, **Mesh Cartridge** | Moving water requires the torpedo-shaped TORRENT sampler to guide water through the opening. Use a mesh Cartridge to keep out larger debris and focus eDNA more efficiently, while minimizing tearing of the filter membrane. |
-| *What birds visit my birdbath?* | RAPID |**RAPID Adapter (A)**, **Narrow Base (B)**, **Connector (C)** | Use a standard plastic bottle to collect birdbath water (multiple times, the more the better, but leave some for the birds!). |
-| *Are there aquatic invasive species here?* | BULK | **BULK Adapter (A)**, **Wide Base (B)**, **Connector (C)**, **Support Cartridge** | Maximize detection of rare species and the volume of water that passes through the filter membrane by using a larger 5L bottle (multiple times, the more the better!). Use the support Cartridge to maximize surface area while minimizing the chances of ripping the filter membrane. |
-| *What are the birds, the bees, and the trees?* | CANOPY | **RAPID Adapter (A)**, **CANOPY base (B)**, **Connector (C)**, **Mesh Cartridge** | Harvest rain throughfall under forested canopies to easily sample plant and animal communities. Use the mesh Cartridge to exclude leaves, sticks, and other debris that may be caught as well. Know how much rain you filtered by collecting it in a standard plastic bottle. |
+| *What fish are in my local river?* | TORRENT | [**TORRENT Cone (A)**](./A_components/torrent_cone.stl), [**TORRENT Tail (B)**](./B_components/torrent_tail.stl), [**Connector Ring (C)**](./C_components/connector_ring.stl), [**Mesh Cartridge (Optional)**](./Optional/mesh_cartridge.stl) | Moving water requires the torpedo-shaped TORRENT sampler to guide water through the opening. Use a mesh Cartridge to keep out larger debris and focus eDNA more efficiently, while minimizing tearing of the filter membrane. |
+| *What birds visit my birdbath?* | RAPID |[**RAPID Adapter (A)**](./A_components/rapid_adapter.stl), [**Narrow Base (B)**](./B_components/narrow_base.stl), [**Connector Ring (C)**](./C_components/connector_ring.stl) | Use a standard plastic bottle to collect birdbath water (multiple times, the more the better, but leave some for the birds!). |
+| *Are there aquatic invasive species here?* | BULK | [**BULK Adapter (A)**](./A_components/bulk_adapter.stl, **Wide Base (B)**, [**Connector Ring (C)**](./C_components/connector_ring.stl), [**Support Cartridge (Optional)**](./Optional/support_cartridge.stl) | Maximize detection of rare species and the volume of water that passes through the filter membrane by using a larger 5L bottle (multiple times, the more the better!). Use the support Cartridge to maximize surface area while minimizing the chances of ripping the filter membrane. |
+| *What are the birds, the bees, and the trees?* | CANOPY | [**RAPID Adapter (A)**](./A_components/rapid_adapter.stl), **CANOPY base (B)**, [**Mesh Cartridge (Optional)**](./Optional/mesh_cartridge.stl) | Harvest rain throughfall under forested canopies to easily sample plant and animal communities. Use the mesh Cartridge to exclude leaves, sticks, and other debris that may be caught as well. Know how much rain you filtered by collecting it in a standard plastic bottle. |
 
 &nbsp;
 
@@ -156,11 +156,15 @@ Here are some example builds/use cases (no, we haven't tested them all... yet):
 
 ## 3D Printer Specifications
 
+All components have been successfully printed on a Prusa MK4S using the following parameters:
+
 - **Filament:** 1.75mm ABS plastic (recommended over PLA for toughness and frequent use in harsh environments)
 - **Infill:** Gyroid, 20% (superior strength-to-weight ratio using less material, reducing print costs)
 - **Brim:** Inner and outer 5 – 8mm brim (to increase bed adhesion and reduce warping)
 - **Print temperature:** 210°C – 250°C
 - **Heated bed:** 95 – 110°C (enclosure recommended)
+
+While these settings are optimized for ABS, deviations may require calibration adjustments when using alternative materials such as PLA, PETG, or ASA. Users should conduct test prints to validate dimensional accuracy and layer adhesion with their chosen filament.
 
 &nbsp;
 
