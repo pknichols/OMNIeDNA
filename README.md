@@ -51,7 +51,7 @@ Whether deployed passively or with minimal active force, the system directs wate
   <img width="250" height="250" alt="omnicartridge" src="https://github.com/user-attachments/assets/d702184c-e54d-4434-89d9-b3319d0bf52c" />
 </p>
 
-- [**OMNIeDNA Cartridges**](./Optional/mixed_bed2x2.stl) – Reusable filter membrane holders (< 52 mm) enable adjustable pre-filtration based on debris load and environment type, allow sterile batch assembly for fast field deployment, and are easy to decontaminate after use.
+- [**OMNIeDNA Cartridges**](./Optional/mixed_bed2x2.stl) – Reusable filter membrane holders (for use with filter membranes of diameter < 52 mm) enable adjustable pre-filtration based on debris load and environment type, allow sterile batch assembly for fast field deployment, and are easy to decontaminate after use.
 
 &nbsp;
 
