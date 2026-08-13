@@ -118,7 +118,7 @@ Want to make your life even easier?
 
 | Cartridge | Best Suited For | Filament Used | Print Time |
 |------|---------------------|-------|------|
-| [**Support Cartridge**](./Optional/support_cartridge.stl) | 6 mm openings to provide support for fragile filter membranes while maximizing the contact area of filtered water | | |
+| [**Support Cartridge**](./Optional/support_cartridge.stl) | 6 mm openings to provide support for fragile filter membranes while maximizing the contact area of filtered water | 5g | 20min |
 | [**Mesh Cartridge**](./Optional/mesh_cartridge.stl) | Fine 2.5 mm mesh for excluding large debris like leaves, sticks, and other material that may be in the water. It also provides support for fragile filter membranes, reducing the chances of them ripping during deployments | 5g | 15min |
 
 &nbsp;
