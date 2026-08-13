@@ -73,11 +73,11 @@ We call it **The ABCs**. Pick your **A**, pick your **B**, pick your **C**, and 
 
 This is the top half. It's where the water enters the system. Your choice depends on where you plan to sample:
 
-| Adapter | Other Required Gear | Best Suited For |
-|---------|---------------------|-----------------|
-| [**TORRENT Cone**](./A_components/torrent_cone.stl) | TORRENT Tail, rope, ballast weight (e.g., dive weights, brick, anchor, large rock) | Moving aquatic environments (rivers, streams, towed behind a kayak or small boat) |
-| [**RAPID Adapter**](./A_components/rapid_adapter.stl) | 1.0/1.5L plastic bottles, Wide/Narrow Base | Great for quick, grab-and-go field sampling. Uses plastic bottles that are universally available. |
-| [**BULK Adapter**](./A_components/bulk_adapter.stl) | 5.1L plastic carboy, Wide Base | Perfect for sampling water from larger jugs, meaning more eDNA. However, larger jugs may be more difficult to source. |
+| Adapter | Other Required Gear | Best Suited For | Filament Used | Print Time |
+|---------|---------------------|-----------------|-------|------|
+| [**TORRENT Cone**](./A_components/torrent_cone.stl) | TORRENT Tail, rope, ballast weight (e.g., dive weights, brick, anchor, large rock) | Moving aquatic environments (rivers, streams, towed behind a kayak or small boat) | 40g | 1hr 15min |
+| [**RAPID Adapter**](./A_components/rapid_adapter.stl) | 1.0/1.5L plastic bottles, Wide/Narrow Base | Great for quick, grab-and-go field sampling. Uses plastic bottles that are universally available. | | |
+| [**BULK Adapter**](./A_components/bulk_adapter.stl) | 5.1L plastic carboy, Wide Base | Perfect for sampling water from larger jugs, meaning more eDNA. However, larger jugs may be more difficult to source. | 55g | 2hr 15min |
 
 &nbsp;
 
@@ -87,11 +87,11 @@ This is the top half. It's where the water enters the system. Your choice depend
 
 This is the bottom half. It dictates how the sampler stabilizes while water flows out.
 
-| Base | Other Required Gear | Best Suited For |
-|------|---------------------|-----------------|
-| [**TORRENT Tail**](./B_components/torrent_tail.stl) | TORRENT Cone, rope, ballast weight (e.g., dive weights, brick, anchor, large rock) | Moving aquatic environments (rivers, streams, towed behind a kayak or small boat) |
-| **Wide Base** | BULK or RAPID Adapter, 5.1L or 1.0/1.5L plastic bottle | Dry land / bench-top filtration, with a sturdy footprint that is less likely to tip over while you work |
-| [**Narrow Base**](./B_components/narrow_base.stl) | BULK or RAPID Adapter, 5.1L or 1.0/1.5L plastic bottle | Compact fieldwork (coolers, backpacks, tight spaces) or uneven ground where it can instead be hung for maximum portability |
+| Base | Other Required Gear | Best Suited For | Filament Used | Print Time |
+|------|---------------------|-----------------|-------|------|
+| [**TORRENT Tail**](./B_components/torrent_tail.stl) | TORRENT Cone, rope, ballast weight (e.g., dive weights, brick, anchor, large rock) | Moving aquatic environments (rivers, streams, towed behind a kayak or small boat) | 130g | 5hr 25min |
+| **Wide Base** | BULK or RAPID Adapter, 5.1L or 1.0/1.5L plastic bottle | Dry land / bench-top filtration, with a sturdy footprint that is less likely to tip over while you work | | |
+| [**Narrow Base**](./B_components/narrow_base.stl) | BULK or RAPID Adapter, 5.1L or 1.0/1.5L plastic bottle | Compact fieldwork (coolers, backpacks, tight spaces) or uneven ground where it can instead be hung for maximum portability | 35g | 1hr 30min |
 
 &nbsp;
 
@@ -101,9 +101,9 @@ This is the bottom half. It dictates how the sampler stabilizes while water flow
 
 This is the middle piece... a threaded ring that literally **connects your chosen (A) to your chosen (B)**.
 
-| Connector | Required For | 
-|------|---------------------|
-| [**Connector Ring**](./C_components/connector_ring.stl) | All builds |
+| Connector | Required For | Filament Used | Print Time |
+|------|---------------------|-------|------|
+| [**Connector Ring**](./C_components/connector_ring.stl) | All builds | 20g | 40min |
 
 &nbsp;
 
@@ -116,10 +116,10 @@ Want to make your life even easier?
 - Pre-load your sterile filter membranes *before* you leave. No more fumbling with delicate filter membranes in the field!
 - At the field site, just pop the cartridge in, sample, pop it out, and seal it in a plastic bag.
 
-| Cartridge | Best Suited For | 
-|------|---------------------|
-| [**Support Cartridge**](./Optional/support_cartridge.stl) | 6 mm openings to provide support for fragile filter membranes while maximizing the contact area of filtered water |
-| [**Mesh Cartridge**](./Optional/mesh_cartridge.stl) | Fine 2.5 mm mesh for excluding large debris like leaves, sticks, and other material that may be in the water. It also provides support for fragile filter membranes, reducing the chances of them ripping during deployments |
+| Cartridge | Best Suited For | Filament Used | Print Time |
+|------|---------------------|-------|------|
+| [**Support Cartridge**](./Optional/support_cartridge.stl) | 6 mm openings to provide support for fragile filter membranes while maximizing the contact area of filtered water | | |
+| [**Mesh Cartridge**](./Optional/mesh_cartridge.stl) | Fine 2.5 mm mesh for excluding large debris like leaves, sticks, and other material that may be in the water. It also provides support for fragile filter membranes, reducing the chances of them ripping during deployments | 5g | 15min |
 
 &nbsp;
 
