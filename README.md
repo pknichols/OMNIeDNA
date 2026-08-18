@@ -111,12 +111,12 @@ This is the middle piece... a threaded ring that literally **connects your chose
 
 ### Optional Add-On – Cartridges
 
-Want to make your life even easier?
+For fragile filter membranes (or those < 50 mm in diameter), the OMNIeDNA Cartridges are highly recommended to provide stability and reduce likelihood of filter membrane loss. Plus, they generally make your life even easier! 
 
 - Pre-load your sterile filter membranes *before* you leave. No more fumbling with delicate filter membranes in the field!
 - At the field site, just pop the cartridge in, sample, pop it out, and seal it in a plastic bag.
 
-| Cartridge | Best Suited For | Filament Used | Print Time |
+| Cartridge | Description | Filament Used | Print Time |
 |------|---------------------|-----|--------|
 | [**Support Cartridge**](./Optional/support_cartridge.stl) | 6 mm openings to provide support for fragile filter membranes while maximizing the contact area of filtered water | 5g | 20min |
 | [**Mesh Cartridge**](./Optional/mesh_cartridge.stl) | Fine 2.5 mm mesh for excluding large debris like leaves, sticks, and other material that may be in the water. It also provides support for fragile filter membranes, reducing the chances of them ripping during deployments | 5g | 15min |
