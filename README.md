@@ -148,13 +148,14 @@ Here are some example builds/use cases (no, we haven't tested them all... yet):
 
 All components have been successfully printed on a Prusa MK4S using the following parameters:
 
-- **Filament:** 1.75mm ABS plastic (recommended over PLA for toughness and frequent use in harsh environments)
+- **Filament:** 1.75mm PETG plastic (recommended over PLA for toughness and frequent use in harsh environments, routine bleach decontamination)
 - **Infill:** Gyroid, 20% (superior strength-to-weight ratio using less material, reducing print costs)
+- **Layer height:** 0.15-0.20 mm
 - **Brim:** Inner and outer 5 – 8mm brim (to increase bed adhesion and reduce warping)
-- **Print temperature:** 210°C – 250°C
-- **Heated bed:** 95 – 110°C (enclosure recommended)
+- **Print temperature:** 220°C – 260°C
+- **Heated bed:** 70 – 80°C 
 
-While these settings are optimized for ABS, deviations may require calibration adjustments when using alternative materials such as PLA, PETG, or ASA. Users should conduct test prints to validate dimensional accuracy and layer adhesion with their chosen filament.
+While these settings are optimized for PETG, users should conduct test prints to validate dimensional accuracy and layer adhesion with their chosen filament.
 
 &nbsp;
 
