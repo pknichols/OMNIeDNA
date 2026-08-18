@@ -41,7 +41,11 @@ Whether deployed passively or with minimal active force, the system directs wate
 
 ---
 
-- **OMNIeDNA CANOPY (Coming soon)** – A rain/snow collection adapter to maximize filtration of canopy throughfall. When used in the rain, the attached plastic bottle lets you know how much water you have filtered. When used in sleet/snow, bring the bottle to room temperature to melt and invert to filter the collected water. We didn't want to exclude our (Ant)arctic partners!!
+<p align="center">
+  <img width="250" height="250" alt="canopy" src="https://github.com/user-attachments/assets/99dcbbfc-1243-40b9-91ea-7b57fc75760f" />
+</p>
+
+- [**OMNIeDNA CANOPY**](./OMNIeDNA_CANOPY_kit.stl) – A rain/sleet/snow collection adapter to maximize filtration of canopy throughfall. When used in the rain with a plastic tarp (sorry, cannot 3D print that piece), the attached plastic bottle lets you know how much water you have collected. When used in sleet/snow, bring the bottle to room temperature to melt and invert to filter the collected water. We didn't want to exclude our (Ant)arctic partners!!
 
 &nbsp;
 
@@ -89,9 +93,10 @@ This is the bottom half. It dictates how the sampler stabilizes while water flow
 
 | Base | Other Required Gear | Best Suited For | Filament Used | Print Time |
 |------|---------------------|-----------------|-----|--------|
-| [**TORRENT Tail**](./B_components/torrent_tail.stl) | TORRENT Cone, rope, ballast weight (e.g., dive weights, brick, anchor, large rock) | Moving aquatic environments (rivers, streams, towed behind a kayak or small boat) | 130g | 5hr 25min |
+| [**TORRENT Tail**](./B_components/torrent_tail.stl) | TORRENT Cone, rope, Optional: ballast weight (e.g., dive weights, brick, anchor, large rock) for fast-moving waters | Moving aquatic environments (rivers, streams, towed behind a kayak or small boat) | 130g | 5hr 25min |
 | **Wide Base** | BULK or RAPID Adapter, 5.1L or 1.0/1.5L plastic bottle | Dry land / bench-top filtration, with a sturdy footprint that is less likely to tip over while you work | | |
 | [**Narrow Base**](./B_components/narrow_base.stl) | BULK or RAPID Adapter, 5.1L or 1.0/1.5L plastic bottle | Compact fieldwork (coolers, backpacks, tight spaces) or uneven ground where it can instead be hung for maximum portability | 35g | 1hr 30min |
+| [**CANOPY Bulkhead**](./B_components/canopy_bulkhead.stl) | BULK or RAPID Adapter, 5.1L or 1.0/1.5L plastic bottle, plastic sheet, rope | Used as a through-fitting for a large plastic sheet or tarp to collect rainwater while suspended from the trees | 15g | 45min |
 
 &nbsp;
 
@@ -136,7 +141,7 @@ Here are some example builds/use cases (no, we haven't tested them all... yet):
 | *What fish are in my local river?* | TORRENT | [**TORRENT Cone (A)**](./A_components/torrent_cone.stl), [**TORRENT Tail (B)**](./B_components/torrent_tail.stl), [**Connector Ring (C)**](./C_components/connector_ring.stl), [**Mesh Cartridge (Optional)**](./Optional/mesh_cartridge.stl) | Moving water requires the torpedo-shaped [**OMNIeDNA TORRENT**](./OMNIeDNA_TORRENT_kit.stl) to guide water through the opening. Use a mesh cartridge to keep out larger debris and focus eDNA more efficiently, while minimizing tearing of the filter membrane. |
 | *What birds visit my birdbath?* | RAPID |[**RAPID Adapter (A)**](./A_components/rapid_adapter.stl), [**Narrow Base (B)**](./B_components/narrow_base.stl), [**Connector Ring (C)**](./C_components/connector_ring.stl) | Use a standard plastic bottle to collect birdbath water (multiple times, the more the better, but leave some for the birds!) with the [**OMNIeDNA RAPID**](./OMNIeDNA_RAPID_kit.stl). |
 | *Are there aquatic invasive species here?* | BULK | [**BULK Adapter (A)**](./A_components/bulk_adapter.stl), **Wide Base (B)**, [**Connector Ring (C)**](./C_components/connector_ring.stl), [**Support Cartridge (Optional)**](./Optional/support_cartridge.stl) | Maximize detection of rare species and the volume of water that passes through the filter membrane by using a larger 5L bottle (multiple times, the more the better!) and the [**OMNIeDNA BULK**](./OMNIeDNA_BULK_kit.stl). Use the support cartridge to maximize surface area while minimizing the chances of ripping the filter membrane. |
-| *What are the birds, the bees, and the trees?* | CANOPY | [**RAPID Adapter (A)**](./A_components/rapid_adapter.stl), **CANOPY base (B)**, [**Mesh Cartridge (Optional)**](./Optional/mesh_cartridge.stl) | Harvest rain throughfall under forested canopies to easily sample plant and animal communities. Use the mesh cartridge to exclude leaves, sticks, and other debris that may be caught as well. Know how much rain you filtered by collecting it in a standard plastic bottle. |
+| *What are the birds, the bees, and the trees?* | CANOPY | [**RAPID Adapter (A)**](./A_components/rapid_adapter.stl), [**CANOPY Bulkhead (B)**](./B_components/canopy_bulkhead.stl), [**Mesh Cartridge (Optional)**](./Optional/mesh_cartridge.stl) | Harvest rain throughfall under forested canopies to easily sample plant and animal communities. Use the mesh cartridge to exclude leaves, sticks, and other debris that may be caught as well. Know how much rain you filtered by collecting it in a standard plastic bottle. |
 
 &nbsp;
 
@@ -144,7 +149,7 @@ Here are some example builds/use cases (no, we haven't tested them all... yet):
 
 ---
 
-## 3D Printer Specifications
+## Printer Specifications
 
 All components have been successfully printed on a Prusa MK4S using the following parameters:
 
@@ -179,6 +184,11 @@ Social Designer
 
 📧 [schulz.janc@gmail.com](mailto:schulz.janc@gmail.com)  
 🔗 [janchristianschulz.com](https://janchristianschulz.com/)
+
+**Design by Brendan Nichols**  
+Engineer, Applied Physical Scientist
+
+📧 [nicholsbv@gmail.com](mailto:nicholsbv@gmail.com)  
 
 ---
 
