@@ -166,7 +166,7 @@ All components have been successfully printed on a Prusa MK4S using the followin
 
 While these settings are optimized for PETG, users should conduct test prints to validate dimensional accuracy and layer adhesion with their chosen filament.
 
-Printing with Prusa? We're also on Printables.com! Search 'OMNIeDNA' for easily slicing our sampler kits and components.
+Printing with Prusa? We're also on [Printables.com](https://www.printables.com/search/all-models?q=OMNIeDNA)! Search 'OMNIeDNA' for easily slicing our sampler kits and components.
 
 &nbsp;
 
