@@ -9,6 +9,10 @@
 
 The OMNIeDNA sampler is a modular environmental DNA (eDNA) concentration system built around a standard 50 mm cotton swab pad secured within a threaded connection ring. By placing this simple, low-cost membrane at the point of water entry, the OMNIeDNA filter system creates a consistent, focused filtration interface that works across virtually any water sampling scenario. Yes, you can also use more traditional filter membranes (48-52 mm diameter) if you feel so inclined!
 
+<p align="center">
+  <img width="500" alt="OMNIeDNA" src="https://github.com/user-attachments/assets/1d08b2be-c23c-4d3c-822a-6a22e965c372" />
+</p>
+
 Whether deployed passively or with minimal active force, the system directs water through the cotton membrane, capturing cellular material and extracellular DNA efficiently on a substrate that is both widely available and easily processed for downstream DNA extraction. The threaded ring architecture allows users to adapt the same filtration core to a wide range of sampling containers, flow conditions, or collection methods, making affordable ecosystem-wide surveying accessible in diverse environments. The OMNIeDNA filter system is an inexpensive tool that puts the power of eDNA sampling into the hands of non-specialist users. Simple materials, limitless adaptability.
 
 <p align="center">
