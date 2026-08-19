@@ -176,7 +176,7 @@ Printing with Prusa? We're also on [Printables.com](https://www.printables.com/s
 
 &nbsp;
 
-## Credits
+## Acknowledgements
 
 **Original concept by Patrick Nichols**  
 Postdoctoral Researcher | Biodiversity Genomics Research Group | University of Oulu  
