@@ -7,9 +7,8 @@
 > [!IMPORTANT]
 > **Preliminary tool, subject to ongoing development.**
 
-
 <p align="center">
-  <img width="500" alt="OMNIeDNA" src="https://github.com/user-attachments/assets/1d08b2be-c23c-4d3c-822a-6a22e965c372" />
+  <img width="500" alt="OMNIeDNA" src="https://github.com/user-attachments/assets/7534f631-0930-455d-80ee-b8f9fff28d5c" />
 </p>
 
 
