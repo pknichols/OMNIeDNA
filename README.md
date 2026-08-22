@@ -146,7 +146,7 @@ Here are some example builds/use cases (no, we haven't tested them all... yet):
 | *What fish are in my local river?* | TORRENT | [**TORRENT Cone (A)**](./A_components/torrent_cone.stl), [**TORRENT Tail (B)**](./B_components/torrent_tail.stl), [**Connector Ring (C)**](./C_components/connector_ring.stl), [**Mesh Cartridge (Optional)**](./Optional/mesh_cartridge.stl) | Moving water requires the torpedo-shaped [**OMNIeDNA TORRENT**](./OMNIeDNA_TORRENT_kit.stl) to guide water through the opening. Use a mesh cartridge to keep out larger debris and focus eDNA more efficiently, while minimizing tearing of the filter membrane. |
 | *What birds visit my birdbath?* | RAPID |[**RAPID Adapter (A)**](./A_components/rapid_adapter.stl), [**Narrow Base (B)**](./B_components/narrow_base.stl), [**Connector Ring (C)**](./C_components/connector_ring.stl) | Use a standard plastic bottle to collect birdbath water (multiple times, the more the better, but leave some for the birds!) with the [**OMNIeDNA RAPID**](./OMNIeDNA_RAPID_kit.stl). |
 | *Are there aquatic invasive species here?* | BULK | [**BULK Adapter (A)**](./A_components/bulk_adapter.stl), **Wide Base (B)**, [**Connector Ring (C)**](./C_components/connector_ring.stl), [**Support Cartridge (Optional)**](./Optional/support_cartridge.stl) | Maximize detection of rare species and the volume of water that passes through the filter membrane by using a larger 5L bottle (multiple times, the more the better!) and the [**OMNIeDNA BULK**](./OMNIeDNA_BULK_kit.stl). Use the support cartridge to maximize surface area while minimizing the chances of ripping the filter membrane. |
-| *What are the birds, the bees, and the trees?* | CANOPY | [**RAPID Adapter (A)**](./A_components/rapid_adapter.stl), [**CANOPY Bulkhead (B)**](./B_components/canopy_bulkhead.stl), [**Mesh Cartridge (Optional)**](./Optional/mesh_cartridge.stl) | Harvest rain throughfall under forested canopies to easily sample plant and animal communities. Use the mesh cartridge to exclude leaves, sticks, and other debris that may be caught as well. Know how much rain you filtered by collecting it in a standard plastic bottle. |
+| *What are the birds, the bees, and the trees?* | CANOPY | [**RAPID Adapter (A)**](./A_components/rapid_adapter.stl), [**CANOPY Bulkhead (B)**](./B_components/canopy_bulkhead.stl), [**Mesh Cartridge (Optional)**](./Optional/mesh_cartridge.stl) | Harvest rain throughfall under forested canopies using the [**OMNIeDNA CANOPY**](./OMNIeDNA_CANOPY_kit.stl) to easily sample plant and animal communities. Use the mesh cartridge to exclude leaves, sticks, and other debris that may be caught as well. Know how much rain you filtered by collecting it in a standard plastic bottle. |
 
 &nbsp;
 
@@ -158,13 +158,14 @@ Here are some example builds/use cases (no, we haven't tested them all... yet):
 
 All components have been successfully printed on a Prusa MK4S using the following parameters:
 
-- **Filament:** 1.75mm PETG plastic (recommended over PLA for toughness, frequent use in harsh environments, and routine bleach decontamination)
+- **Filament:** 1.75mm PETG or ABS plastic (recommended over PLA for toughness, frequent use in harsh environments). ABS components can be smoothed with an Acetone vapor bath to facilitate routine bleach decontamination.
 - **Infill:** Gyroid, 20% (superior strength-to-weight ratio using less material, reducing print costs)
 - **Layer height:** 0.15-0.20 mm
-- **Print temperature:** 220°C – 260°C
-- **Heated bed:** 70 – 80°C 
+- **Print temperature:** 220°C – 260°C (PETG/ABS); 
+- **Heated bed:** 70 – 80°C (PETG); 90 – 110°C (ABS; enclosure and ventilation recommended)
+- **Brim/supports:** 8-10mm brim when using ABS; supports were only needed for printing the Canopy_bulkhead
 
-While these settings are optimized for PETG, users should conduct test prints to validate dimensional accuracy and layer adhesion with their chosen filament.
+While these settings are optimized for PETG/ABS, users should conduct test prints to validate dimensional accuracy and layer adhesion with their chosen filament.
 
 Printing with Prusa? We're also on [Printables.com](https://www.printables.com/search/all-models?q=OMNIeDNA)! Search 'OMNIeDNA' for easily slicing our sampler kits and components.
 
