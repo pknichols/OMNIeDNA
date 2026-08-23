@@ -135,6 +135,7 @@ For fragile filter membranes (or those < 50 mm in diameter), the OMNIeDNA Cartri
 
 - Pre-load your sterile filter membranes *before* you leave. No more fumbling with delicate filter membranes in the field!
 - At the field site, just pop the cartridge in, sample, pop it out, and seal it in a plastic bag.
+- Putting your filter membranes into sample tubes? Use the tube rack as a stable platform to transfer membranes from cartridges to 15 or 5 mL conical sample tubes.
 
 | Extra | Description | Filament Used | Print Time |
 |------|---------------------|-----|--------|
