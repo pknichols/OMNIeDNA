@@ -64,6 +64,16 @@ Whether deployed passively or with minimal active force, the system directs wate
 
 &nbsp;
 
+---
+
+<p align="center">
+  <img width="250" height="250" alt="multi_rack" src="https://github.com/user-attachments/assets/2fa7c939-b76f-4cf6-a622-a418588a70dc" />
+</p>
+
+- [**OMNIeDNA Multi Rack**](./Optional/multi_rack.stl) – Facilitates the transfer of filter membranes into sample storage tubes in the laboratory or field. Steadily holds 15 mL and 5 mL conical tubes, plus two OMNIeDNA Cartridges. Drainage holes for easy bleach-decontamination and drying.
+
+&nbsp;
+
 &nbsp;
 
 ---
@@ -119,17 +129,18 @@ This is the middle piece... a threaded ring that literally **connects your chose
 
 ---
 
-### Optional Add-On – Cartridges
+### Optional Extras
 
-For fragile filter membranes (or those < 50 mm in diameter), the OMNIeDNA Cartridges are highly recommended to provide stability and reduce likelihood of filter membrane loss. Plus, they generally make your life even easier! 
+For fragile filter membranes (or those < 50 mm in diameter), the OMNIeDNA Cartridges are highly recommended to provide stability and reduce likelihood of filter membrane loss.
 
 - Pre-load your sterile filter membranes *before* you leave. No more fumbling with delicate filter membranes in the field!
 - At the field site, just pop the cartridge in, sample, pop it out, and seal it in a plastic bag.
 
-| Cartridge | Description | Filament Used | Print Time |
+| Extra | Description | Filament Used | Print Time |
 |------|---------------------|-----|--------|
 | [**Support Cartridge**](./Optional/support_cartridge.stl) | 6 mm openings to provide support for fragile filter membranes while maximizing the contact area of filtered water | 5g | 20min |
 | [**Mesh Cartridge**](./Optional/mesh_cartridge.stl) | Fine 2.5 mm mesh for excluding large debris like leaves, sticks, and other material that may be in the water. It also provides support for fragile filter membranes, reducing the chances of them ripping during deployments | 5g | 15min |
+| [**Multi Rack**](./Optional/multi_rack.stl) | Tube rack for holding samples while in the laboratory or in the field, greatly reducing the chances of knocking something over. Even holds two membrane cartridges for easy transfer directly into sample storage tubes. | 110g | 3hr 45min |
 
 &nbsp;
 
