@@ -111,7 +111,7 @@ This is the bottom half. It dictates how the sampler stabilizes while water flow
 | [**TORRENT Tail**](./B_components/torrent_tail.stl) | TORRENT Cone, rope, Optional: ballast weight (e.g., dive weights, brick, anchor, large rock) for fast-moving waters | Moving aquatic environments (rivers, streams, towed behind a kayak or small boat) | 130g | 5hr 25min |
 | **Wide Base** | BULK or RAPID Adapter, 5.1L or 1.0/1.5L plastic bottle | Dry land / bench-top filtration, with a sturdy footprint that is less likely to tip over while you work | | |
 | [**Narrow Base**](./B_components/narrow_base.stl) | BULK or RAPID Adapter, 5.1L or 1.0/1.5L plastic bottle | Compact fieldwork (coolers, backpacks, tight spaces) or uneven ground where it can instead be hung for maximum portability | 35g | 1hr 30min |
-| [**CANOPY Bulkhead**](./B_components/canopy_bulkhead.stl) | BULK or RAPID Adapter, 5.1L or 1.0/1.5L plastic bottle, plastic sheet (waterproof tarp, shower curtain, etc.), rope | Used as a through-fitting for a large plastic sheet or tarp to collect rainwater while suspended from the trees | 15g | 45min |
+| [**CANOPY Bulkhead**](./B_components/canopy_bulkhead.stl) | BULK or RAPID Adapter, 5.1L or 1.0/1.5L plastic bottle, durable plastic sheet (waterproof tarp, shower curtain liner, etc.), rope | Used as a through-fitting for a large plastic sheet or tarp to collect rainwater while suspended from the trees | 20g | 45min |
 
 &nbsp;
 
