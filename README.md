@@ -205,9 +205,9 @@ Social Designer
 🔗 [janchristianschulz.com](https://janchristianschulz.com/)
 
 **Design by Brendan Nichols**  
-Engineer, Applied Physical Scientist
+Principal Scientist, General Dynamics, Applied Physical Sciences Corp.
 
-📧 [nicholsbv@gmail.com](mailto:nicholsbv@gmail.com)  
+📧 [bnichols@aphysci.com](mailto:bnichols@aphysci.com)  
 
 ---
 
