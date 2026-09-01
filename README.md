@@ -92,7 +92,7 @@ We call it **The ABCs**. Pick your **A**, pick your **B**, pick your **C**, and 
 
 This is the top half. It's where the water enters the system. Your choice depends on where you plan to sample:
 
-| Adapter | Other Required Gear | Best Suited For | Filament Used | Approx. Print Time | Supports/Brim |
+| Adapter | Other Required Gear | Best Suited For | Filament Used | Approx. Print Time | Print Settings |
 |---------|---------------------|-----------------|-----|--------|------|
 | [**TORRENT Cone**](./A_components/torrent_cone.stl) | TORRENT Tail, rope | Moving aquatic environments (rivers, streams, towed behind a kayak or small boat) | 40g | 1hr 15min | Brim only |
 | [**RAPID Adapter**](./A_components/rapid_adapter.stl) | 1.0/1.5L plastic bottles, Wide/Narrow Base | Great for quick, grab-and-go field sampling. Uses plastic bottles that are universally available. | 50g | 2hr 5min | Brim only |
@@ -106,12 +106,12 @@ This is the top half. It's where the water enters the system. Your choice depend
 
 This is the bottom half. It dictates how the sampler stabilizes while water flows out.
 
-| Base | Other Required Gear | Best Suited For | Filament Used | Approx. Print Time | Supports/Brim |
+| Base | Other Required Gear | Best Suited For | Filament Used | Approx. Print Time | Print Settings |
 |------|---------------------|-----------------|-----|--------|------|
-| [**TORRENT Tail**](./B_components/torrent_tail.stl) | TORRENT Cone, rope | Moving aquatic environments (rivers, streams, towed behind a kayak or small boat) | 130g | 5hr 25min | Brim only |
-| **Wide Base** | BULK or RAPID Adapter, 5.1L or 1.0/1.5L plastic bottle | Dry land / bench-top filtration, with a sturdy footprint that is less likely to tip over while you work | | | Brim only |
-| [**Narrow Base**](./B_components/narrow_base.stl) | BULK or RAPID Adapter, 5.1L or 1.0/1.5L plastic bottle | Compact fieldwork (coolers, backpacks, tight spaces) or uneven ground where it can instead be hung for maximum portability | 35g | 1hr 30min | Brim only |
-| [**CANOPY Bulkhead**](./B_components/canopy_bulkhead.stl) | BULK or RAPID Adapter, 5.1L or 1.0/1.5L plastic bottle, durable plastic sheet (waterproof tarp, shower curtain liner, etc.), rope | Used as a through-fitting for a large plastic sheet or tarp to collect rainwater while suspended from the trees | 20g | 45min | Supports |
+| [**TORRENT Tail**](./B_components/torrent_tail.stl) | TORRENT Cone, rope | Moving aquatic environments (rivers, streams, towed behind a kayak or small boat) | 240g | 10hr | Outer Brim, 50% infill |
+| **Wide Base** | BULK or RAPID Adapter, 5.1L or 1.0/1.5L plastic bottle | Dry land / bench-top filtration, with a sturdy footprint that is less likely to tip over while you work | | | Outer Brim |
+| [**Narrow Base**](./B_components/narrow_base.stl) | BULK or RAPID Adapter, 5.1L or 1.0/1.5L plastic bottle | Compact fieldwork (coolers, backpacks, tight spaces) or uneven ground where it can instead be hung for maximum portability | 35g | 1hr 30min | Outer Brim |
+| [**CANOPY Bulkhead**](./B_components/canopy_bulkhead.stl) | BULK or RAPID Adapter, 5.1L or 1.0/1.5L plastic bottle, durable plastic sheet (waterproof tarp, shower curtain liner, etc.), rope | Used as a through-fitting for a large plastic sheet or tarp to collect rainwater while suspended from the trees | 20g | 45min | Tight supports |
 
 &nbsp;
 
@@ -121,9 +121,9 @@ This is the bottom half. It dictates how the sampler stabilizes while water flow
 
 This is the middle piece... a threaded ring that literally **connects your chosen (A) to your chosen (B)**.
 
-| Connector | Required For | Filament Used | Approx. Print Time | Supports/Brim |
+| Connector | Required For | Filament Used | Approx. Print Time | Print Settings |
 |------|---------------------|-----|--------|------|
-| [**Connector Ring**](./C_components/connector_ring.stl) | All builds | 20g | 40min | Brim only |
+| [**Connector Ring**](./C_components/connector_ring.stl) | All builds | 20g | 40min | Outer Brim |
 
 &nbsp;
 
@@ -137,11 +137,11 @@ For fragile filter membranes (or those < 50 mm in diameter), the OMNIeDNA Cartri
 - At the field site, just pop the cartridge in, sample, pop it out, and seal it in a plastic bag.
 - Putting your filter membranes into sample tubes? Use the tube rack as a stable platform to transfer membranes from cartridges to 15 or 5 mL conical sample tubes.
 
-| Extra | Description | Filament Used | Approx. Print Time | Supports/Brim |
+| Extra | Description | Filament Used | Approx. Print Time | Print Settings |
 |------|---------------------|-----|--------|------|
-| [**Support Cartridge**](./Optional/support_cartridge.stl) | 6 mm openings to provide support for fragile filter membranes while maximizing the contact area of filtered water | 5g | 20min | None |
-| [**Mesh Cartridge**](./Optional/mesh_cartridge.stl) | Fine 2.5 mm mesh for excluding large debris like leaves, sticks, and other material that may be in the water. It also provides support for fragile filter membranes, reducing the chances of them ripping during deployments | 5g | 15min | None |
-| [**Multi Rack**](./Optional/multi_rack.stl) | Tube rack for holding samples while in the laboratory or in the field, greatly reducing the chances of knocking something over. Even holds two membrane cartridges for easy transfer directly into sample storage tubes. | 110g | 3hr 45min | Brim only |
+| [**Support Cartridge**](./Optional/support_cartridge.stl) | 6 mm openings to provide support for fragile filter membranes while maximizing the contact area of filtered water | 5g | 20min | 100% infill |
+| [**Mesh Cartridge**](./Optional/mesh_cartridge.stl) | Fine 2.5 mm mesh for excluding large debris like leaves, sticks, and other material that may be in the water. It also provides support for fragile filter membranes, reducing the chances of them ripping during deployments | 5g | 15min | 100% infill |
+| [**Multi Rack**](./Optional/multi_rack.stl) | Tube rack for holding samples while in the laboratory or in the field, greatly reducing the chances of knocking something over. Even holds two membrane cartridges for easy transfer directly into sample storage tubes. | 110g | 3hr 45min | Outer Brim |
 
 &nbsp;
 
