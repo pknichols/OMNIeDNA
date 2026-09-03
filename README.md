@@ -176,7 +176,15 @@ Here are some theoretical builds/use cases (no, we haven't tested them all... ye
 
   - *Too deep:* Sampling near the bottom of the water column. 
 
+- **OMNIeDNA BULK/RAPID:** When using a plastic bottle, filtration will be much easier if you can poke a hole in the bottom! That way, when you invert the system, it will drain smoothly through the filter. Use tape to temporarily seal the hole while sampling (or simpler still, just be really quick)!
 
+- **OMNIeDNA CANOPY:** While the system can theoretically use any waterproof sheet material, those that can hold up to stormy weather, rough terrain, and routine decontamination with bleach will inevitably perform best (e.g., thick PVC). 
+
+  - *Hanging:* Pick a location that has plenty of trees and bring plenty of extra string to secure the corners as high as you can reach.
+  - *Tensioning:* Use a tensioning knot such as a prusik, taut-line hitch, or siberian hitch attached to each corner to easily adjust where water collects. Bring a bottle of water to test where it gathers.
+  - *Collecting:* Poke a hole in the top of your collection bottle to allow air to easily vent and water to enter. This also allows extra water can escape during large storms, instead of pooling up on the tarp. Size your collection bottle to the expected amount of rain (i.e., RAPID adapter for quick sampling, BULK adapter for lots of rain/large surface area tarps)
+
+&nbsp;
 
 ## Printer Specifications
 
@@ -224,7 +232,8 @@ Engineer, Applied Physical Scientist
 
 &nbsp;
 
-<img width="100" alt="fabcity_oulu_logo" src="https://github.com/user-attachments/assets/399c7c96-a449-4edf-bfb7-99e0018d11c6" /> <img width="120" alt="SAFIRE UniOulu_UNIapproved" src="https://github.com/user-attachments/assets/3810d7e1-81e7-4765-bba9-173e0a2704b7" />
+<img width="110" alt="SAFIRE UniOulu_UNIapproved" src="https://github.com/user-attachments/assets/3810d7e1-81e7-4765-bba9-173e0a2704b7" /> <img width="110" alt="PNG+Logo+(RGB)_THULE_cmyk" src="https://github.com/user-attachments/assets/978e3a5e-0586-412d-9a96-e4af84312e0a" /> <img width="100" alt="fabcity_oulu_logo" src="https://github.com/user-attachments/assets/399c7c96-a449-4edf-bfb7-99e0018d11c6" />
+
 
 
 ---
