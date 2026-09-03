@@ -222,8 +222,6 @@ Engineer, Applied Physical Scientist
 
 &nbsp;
 
-**Partners**
-
 &nbsp;
 
 <img width="100" alt="fabcity_oulu_logo" src="https://github.com/user-attachments/assets/399c7c96-a449-4edf-bfb7-99e0018d11c6" /> <img width="120" alt="SAFIRE UniOulu_UNIapproved" src="https://github.com/user-attachments/assets/3810d7e1-81e7-4765-bba9-173e0a2704b7" />
