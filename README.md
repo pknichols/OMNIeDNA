@@ -20,7 +20,7 @@ Whether deployed passively or with minimal active force, the system directs wate
   <img width="250" height="250" alt="torrent" src="https://github.com/user-attachments/assets/7cdbf406-02e2-46f9-819d-1fd33a3f68a6" />
 </p>
 
-- [**OMNIeDNA TORRENT**](./OMNIeDNA_TORRENT_kit.stl) – A torpedo-shaped sampler designed specifically for use in streams and rivers, or to be deployed from behind recreational vessels and/or watercraft. So versatile that it can be deployed using buoys, docks, bridges, kayaks, dinghies, SUPs... heck, we'd even tie it to a unicorn floaty! Use the TORRENT MINI on a fishing pole for casting or trolling for eDNA!
+- [**OMNIeDNA TORRENT**](./OMNIeDNA_TORRENT_kit.stl) – A torpedo-shaped sampler designed specifically for use in streams and rivers, or to be deployed from behind recreational vessels and/or watercraft. So versatile that it can be deployed using buoys, docks, bridges, kayaks, dinghies, SUPs... heck, we'd even tie it to a unicorn floaty! Use the [**OMNIeDNA TORRENT MINI**](./OMNIeDNA_TORRENT_MINI_kit.stl) on a fishing pole for casting or trolling for eDNA!
 
 &nbsp;
 
