@@ -111,7 +111,7 @@ This is the bottom half. It dictates how the sampler stabilizes while water flow
 | [**TORRENT Tail**](./B_components/torrent_tail.stl) | TORRENT Cone, rope | Moving aquatic environments (rivers, streams, towed behind a kayak or small boat) | 240g | 10hr | Outer Brim, 50% infill |
 | **Wide Base** | BULK or RAPID Adapter, 5.1L or 1.0/1.5L plastic bottle | Dry land / bench-top filtration, with a sturdy footprint that is less likely to tip over while you work | | | Outer Brim |
 | [**Narrow Base**](./B_components/narrow_base.stl) | BULK or RAPID Adapter, 5.1L or 1.0/1.5L plastic bottle | Compact fieldwork (coolers, backpacks, tight spaces) or uneven ground where it can instead be hung for maximum portability | 35g | 1hr 30min | Outer Brim |
-| [**CANOPY Bulkhead**](./B_components/canopy_bulkhead.stl) | BULK or RAPID Adapter, 5.1L or 1.0/1.5L plastic bottle, durable plastic sheet (waterproof tarp, shower curtain liner, etc.), rope | Used as a through-fitting for a large plastic sheet or tarp to collect rainwater while suspended from the trees | 20g | 45min | Tight supports |
+| [**CANOPY Bulkhead**](./B_components/canopy_bulkhead.stl) | BULK or RAPID Adapter, 5.1L or 1.0/1.5L plastic bottle, durable plastic sheet (waterproof tarp, shower curtain liner, etc.), rope | Used as a through-fitting for a large plastic sheet or tarp to collect rainwater while suspended from the trees | 25g | 1hr 30min | Tight supports |
 
 &nbsp;
 
@@ -192,8 +192,9 @@ Here are some theoretical builds/use cases (no, we haven't tested them all... ye
 All components have been successfully printed on a Prusa MK4S using the following parameters:
 
 - **Filament:** 1.75mm PETG or ABS plastic (recommended over PLA for toughness, frequent use in harsh environments). ABS components can be smoothed with an Acetone vapor bath to facilitate routine bleach decontamination.
-- **Infill:** Gyroid, 20%+ (superior strength-to-weight ratio using less material, reducing print costs)
-- **Layer height:** 0.15-0.20 mm
+- **Infill:** Gyroid, 30%+ (superior strength-to-weight ratio using less material, reducing print costs)
+- **Layer height:** 0.20 mm
+- **Minimum perimeters per layer:** 4
 - **Print temperature:** 220°C – 260°C (PETG/ABS); 
 - **Heated bed:** 70 – 80°C (PETG); 90 – 110°C (ABS; enclosure and ventilation recommended)
 - **Brim/supports:** 8-10mm brim when using ABS; supports were only needed for printing the Canopy_bulkhead
