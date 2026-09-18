@@ -1,7 +1,5 @@
-# OMNIeDNA Sampler
-
-## Open, Modular, Non-invasive In-situ eDNA Sampler
-## The 3d-printed versatile eDNA sampler to maximize detection and minimize complexity
+# OMNIeDNA (Open, Modular, Non-invasive, In-situ eDNA) Sampler
+## The versatile 3d-printed eDNA sampler to maximize detection and minimize complexity
 
 ---
 
