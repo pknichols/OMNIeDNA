@@ -3,6 +3,9 @@
 
 ---
 
+[![DOI](https://zenodo.org/badge/1330702293.svg)](https://doi.org/10.5281/zenodo.24138456)
+
+
 > [!IMPORTANT]
 > **Preliminary tool, subject to on-going development.**
 
